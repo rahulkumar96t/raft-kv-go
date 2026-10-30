@@ -1,0 +1,13 @@
+# build output
+/bin/
+*.test
+*.out
+coverage.*
+
+# local cluster state and logs (scripts/cluster.sh)
+/data/
+
+# editors / OS
+.idea/
+.vscode/
+.DS_Store
